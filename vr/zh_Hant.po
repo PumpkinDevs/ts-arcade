@@ -1,6 +1,15 @@
 msgid ""
-msgstr "X-Generator: Weblate\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit"
-
+msgstr ""
+"PO-Revision-Date: 2023-04-28 01:21+0000\n"
+"Last-Translator: Weblate Admin <admin@goodhandvr.com>\n"
+"Language-Team: Chinese (Traditional) <http://i18n.office.pumpkinvrar.com/"
+"projects/arcade/vrgame/zh_Hant/>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.17\n"
 
 # Game Chinese translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
@@ -3830,7 +3839,7 @@ msgstr ""
 #: /Game/Retroverse/StringTable/ST_Text.ST_Text
 msgctxt "ST_Text,NAME_02"
 msgid "Enter your name"
-msgstr ""
+msgstr "請輸入您的大名"
 
 #. Key:	NAME_03
 #. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
@@ -5028,4 +5037,3 @@ msgstr "身體"
 msgctxt "ST_UI,00046"
 msgid "Random"
 msgstr "隨機"
-
