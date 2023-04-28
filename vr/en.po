@@ -1,1 +1,5028 @@
 
+# Game English translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2023-04-26 06:07\n"
+"PO-Revision-Date: 2023-04-26 06:07\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	0001
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0001"
+msgid "Folding chair"
+msgstr "Folding chair"
+
+#. Key:	0002
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0002"
+msgid "Armchair"
+msgstr "Armchair"
+
+#. Key:	0003
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0003"
+msgid "Loveseat"
+msgstr "Loveseat"
+
+#. Key:	0004
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0004"
+msgid "Sofa"
+msgstr "Sofa"
+
+#. Key:	0005
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0005"
+msgid "Booth"
+msgstr "Booth"
+
+#. Key:	0006
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0006"
+msgid "Booth (Cornor)"
+msgstr "Booth (Cornor)"
+
+#. Key:	0007
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0007"
+msgid "Arm chair"
+msgstr "Arm chair"
+
+#. Key:	0008
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0008"
+msgid "Bar stool"
+msgstr "Bar stool"
+
+#. Key:	0009
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0009"
+msgid "Stool"
+msgstr "Stool"
+
+#. Key:	0010
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0010"
+msgid "Swivel-top stool"
+msgstr "Swivel-top stool"
+
+#. Key:	0011
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0011"
+msgid "Round stool"
+msgstr "Round stool"
+
+#. Key:	0012
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0012"
+msgid "Hanging chair"
+msgstr "Hanging chair"
+
+#. Key:	0013
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0013"
+msgid "AE86"
+msgstr "AE86"
+
+#. Key:	0014
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0014"
+msgid "HMMWV"
+msgstr "HMMWV"
+
+#. Key:	0015
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0015"
+msgid "Austin Mini"
+msgstr "Austin Mini"
+
+#. Key:	0016
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0016"
+msgid "Racing car"
+msgstr "Racing car"
+
+#. Key:	0017
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0017"
+msgid "Sport"
+msgstr "Sport"
+
+#. Key:	0018
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0018"
+msgid "Harley-Davidson"
+msgstr "Harley-Davidson"
+
+#. Key:	0019
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0019"
+msgid "Dinosaur Statue"
+msgstr "Dinosaur Statue"
+
+#. Key:	0020
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0020"
+msgid "Creeper Statue"
+msgstr "Creeper Statue"
+
+#. Key:	0021
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0021"
+msgid "The Terminator Statue"
+msgstr "The Terminator Statue"
+
+#. Key:	0022
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0022"
+msgid "King Kong Statue"
+msgstr "King Kong Statue"
+
+#. Key:	0023
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0023"
+msgid "Knight Statue"
+msgstr "Knight Statue"
+
+#. Key:	0024
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0024"
+msgid "Skeleton Soldier Statue"
+msgstr "Skeleton Soldier Statue"
+
+#. Key:	0025
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0025"
+msgid "Samurai Statue"
+msgstr "Samurai Statue"
+
+#. Key:	0026
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0026"
+msgid "Golden Machine"
+msgstr "Golden Machine"
+
+#. Key:	0027
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0027"
+msgid "Rocker Statue"
+msgstr "Rocker Statue"
+
+#. Key:	0028
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0028"
+msgid "Golden Rocker Statue"
+msgstr "Golden Rocker Statue"
+
+#. Key:	0029
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0029"
+msgid "Game machine photo stand (1 person)"
+msgstr "Game machine photo stand (1 person)"
+
+#. Key:	0030
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0030"
+msgid "Dinosaur & Primitives Photo Stand (2 persons)"
+msgstr "Dinosaur & Primitives Photo Stand (2 persons)"
+
+#. Key:	0031
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0031"
+msgid "Zombie Photo Stand (4 people)"
+msgstr "Zombie Photo Stand (4 people)"
+
+#. Key:	0032
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0032"
+msgid "Aquarium fish tank (Small)"
+msgstr "Aquarium fish tank (Small)"
+
+#. Key:	0033
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0033"
+msgid "Aquarium fish tank (Middle)"
+msgstr "Aquarium fish tank (Middle)"
+
+#. Key:	0034
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0034"
+msgid "Aquarium fish tank (Large)"
+msgstr "Aquarium fish tank (Large)"
+
+#. Key:	0035
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0035"
+msgid "Planting (Small)"
+msgstr "Planting (Small)"
+
+#. Key:	0036
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0036"
+msgid "Planting (Middle)"
+msgstr "Planting (Middle)"
+
+#. Key:	0037
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0037"
+msgid "Planting (Large)"
+msgstr "Planting (Large)"
+
+#. Key:	0038
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0038"
+msgid "Telephone Booth"
+msgstr "Telephone Booth"
+
+#. Key:	0039
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0039"
+msgid "Fountain"
+msgstr "Fountain"
+
+#. Key:	0040
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0040"
+msgid "Bookshelf (Small)"
+msgstr "Bookshelf (Small)"
+
+#. Key:	0041
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0041"
+msgid "Bookshelf (Large)"
+msgstr "Bookshelf (Large)"
+
+#. Key:	0042
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0042"
+msgid "Balloon Arch"
+msgstr "Balloon Arch"
+
+#. Key:	0043
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0043"
+msgid "Balloon Bunch"
+msgstr "Balloon Bunch"
+
+#. Key:	0044
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0044"
+msgid "Bookcase (Small)"
+msgstr "Bookcase (Small)"
+
+#. Key:	0045
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0045"
+msgid "Bookcase (Large)"
+msgstr "Bookcase (Large)"
+
+#. Key:	0046
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0046"
+msgid "Trash Can (Small)"
+msgstr "Trash Can (Small)"
+
+#. Key:	0047
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0047"
+msgid "Trash Can (Middle)"
+msgstr "Trash Can (Middle)"
+
+#. Key:	0048
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0048"
+msgid "Trash Can (Large)"
+msgstr "Trash Can (Large)"
+
+#. Key:	0049
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0049"
+msgid "Locker (Small)"
+msgstr "Locker (Small)"
+
+#. Key:	0050
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0050"
+msgid "Locker (Middle)"
+msgstr "Locker (Middle)"
+
+#. Key:	0051
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0051"
+msgid "Locker (Large)"
+msgstr "Locker (Large)"
+
+#. Key:	0052
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0052"
+msgid "Umbrella Stand"
+msgstr "Umbrella Stand"
+
+#. Key:	0053
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0053"
+msgid "Retraining Equipment"
+msgstr "Retraining Equipment"
+
+#. Key:	0054
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0054"
+msgid "Barbell (Small)"
+msgstr "Barbell (Small)"
+
+#. Key:	0055
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0055"
+msgid "Barbell (Large)"
+msgstr "Barbell (Large)"
+
+#. Key:	0056
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0056"
+msgid "Sandbag"
+msgstr "Sandbag"
+
+#. Key:	0057
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0057"
+msgid "Dummy Bag"
+msgstr "Dummy Bag"
+
+#. Key:	0058
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0058"
+msgid "Vending Machine (Soda)"
+msgstr "Vending Machine (Soda)"
+
+#. Key:	0059
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0059"
+msgid "Vending Machine (Snack)"
+msgstr "Vending Machine (Snack)"
+
+#. Key:	0060
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0060"
+msgid "Vending Machine (Instant Noodles)"
+msgstr "Vending Machine (Instant Noodles)"
+
+#. Key:	0061
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0061"
+msgid "Vending Machine (Pizza)"
+msgstr "Vending Machine (Pizza)"
+
+#. Key:	0062
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0062"
+msgid "Water Dispenser"
+msgstr "Water Dispenser"
+
+#. Key:	0063
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0063"
+msgid "Candy Machine"
+msgstr "Candy Machine"
+
+#. Key:	0064
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0064"
+msgid "Data Cabinet"
+msgstr "Data Cabinet"
+
+#. Key:	0065
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0065"
+msgid "Vertical Air Conditioner"
+msgstr "Vertical Air Conditioner"
+
+#. Key:	0066
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0066"
+msgid "Record Player"
+msgstr "Record Player"
+
+#. Key:	0067
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0067"
+msgid "DJ Booth (Small)"
+msgstr "DJ Booth (Small)"
+
+#. Key:	0068
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0068"
+msgid "DJ Booth (Large)"
+msgstr "DJ Booth (Large)"
+
+#. Key:	0069
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0069"
+msgid "Low Partition Wall (Standard)"
+msgstr "Low Partition Wall (Standard)"
+
+#. Key:	0070
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0070"
+msgid "Partition Wall (Standard)"
+msgstr "Partition Wall (Standard)"
+
+#. Key:	0071
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0071"
+msgid "Round Arch"
+msgstr "Round Arch"
+
+#. Key:	0072
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0072"
+msgid "Square Door Frame"
+msgstr "Square Door Frame"
+
+#. Key:	0073
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0073"
+msgid "Red Carpet"
+msgstr "Red Carpet"
+
+#. Key:	0074
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0074"
+msgid "Styling Rugs - WELLCOME"
+msgstr "Styling Rugs - WELLCOME"
+
+#. Key:	0075
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0075"
+msgid "Styling Rug - Tiger Skin Rug"
+msgstr "Styling Rug - Tiger Skin Rug"
+
+#. Key:	0076
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0076"
+msgid "Styling Rug - Bearskin Rug"
+msgstr "Styling Rug - Bearskin Rug"
+
+#. Key:	0077
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0077"
+msgid "Soot (Dust)"
+msgstr "Soot (Dust)"
+
+#. Key:	0078
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0078"
+msgid "Soot (Zombie - Green)"
+msgstr "Soot (Zombie - Green)"
+
+#. Key:	0079
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0079"
+msgid "Soot (Zombie - Purple)"
+msgstr "Soot (Zombie - Purple)"
+
+#. Key:	0080
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0080"
+msgid "Technology Light Particles"
+msgstr "Technology Light Particles"
+
+#. Key:	0081
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0081"
+msgid "Ceremony Beam"
+msgstr "Ceremony Beam"
+
+#. Key:	0082
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0082"
+msgid "Spark Particles"
+msgstr "Spark Particles"
+
+#. Key:	0083
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0083"
+msgid "Magic Circle"
+msgstr "Magic Circle"
+
+#. Key:	0084
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0084"
+msgid "Square Table"
+msgstr "Square Table"
+
+#. Key:	0085
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0085"
+msgid "Round Table"
+msgstr "Round Table"
+
+#. Key:	0086
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0086"
+msgid "Dining Table"
+msgstr "Dining Table"
+
+#. Key:	0087
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0087"
+msgid "Low Side Table"
+msgstr "Low Side Table"
+
+#. Key:	0088
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0088"
+msgid "Bar Table (Short)"
+msgstr "Bar Table (Short)"
+
+#. Key:	0089
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0089"
+msgid "Bar Table (Long)"
+msgstr "Bar Table (Long)"
+
+#. Key:	0090
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0090"
+msgid "Bar Table (Corner)"
+msgstr "Bar Table (Corner)"
+
+#. Key:	0091
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0091"
+msgid "Counter Table (Short)"
+msgstr "Counter Table (Short)"
+
+#. Key:	0092
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0092"
+msgid "Counter Table (Long)"
+msgstr "Counter Table (Long)"
+
+#. Key:	0093
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0093"
+msgid "Counter Table (Corner)"
+msgstr "Counter Table (Corner)"
+
+#. Key:	0094
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0094"
+msgid "Wooden Box"
+msgstr "Wooden Box"
+
+#. Key:	0095
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0095"
+msgid "Oil Drum"
+msgstr "Oil Drum"
+
+#. Key:	0096
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0096"
+msgid "Short Shelf (Small)"
+msgstr "Short Shelf (Small)"
+
+#. Key:	0097
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0097"
+msgid "Short Shelf (Large)"
+msgstr "Short Shelf (Large)"
+
+#. Key:	0098
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0098"
+msgid "Long Shelf (Small)"
+msgstr "Long Shelf (Small)"
+
+#. Key:	0099
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0099"
+msgid "Long Shelf (Large)"
+msgstr "Long Shelf (Large)"
+
+#. Key:	0100
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0100"
+msgid "Tech Panel Landscaping (Small)"
+msgstr "Tech Panel Landscaping (Small)"
+
+#. Key:	0101
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0101"
+msgid "Tech Panel Landscaping (Middle)"
+msgstr "Tech Panel Landscaping (Middle)"
+
+#. Key:	0102
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0102"
+msgid "Tech Panel Landscaping (Large)"
+msgstr "Tech Panel Landscaping (Large)"
+
+#. Key:	0103
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0103"
+msgid "Vegetation Wall (Small)"
+msgstr "Vegetation Wall (Small)"
+
+#. Key:	0104
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0104"
+msgid "Vegetation Wall (Large)"
+msgstr "Vegetation Wall (Large)"
+
+#. Key:	0105
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0105"
+msgid "Mural (Small)"
+msgstr "Mural (Small)"
+
+#. Key:	0106
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0106"
+msgid "Mural (Middle)"
+msgstr "Mural (Middle)"
+
+#. Key:	0107
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0107"
+msgid "Mural (Large)"
+msgstr "Mural (Large)"
+
+#. Key:	0108
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0108"
+msgid "Poster (Small)"
+msgstr "Poster (Small)"
+
+#. Key:	0109
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0109"
+msgid "Poster (Middle)"
+msgstr "Poster (Middle)"
+
+#. Key:	0110
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0110"
+msgid "Poster (Large)"
+msgstr "Poster (Large)"
+
+#. Key:	0111
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0111"
+msgid "Dartboard"
+msgstr "Dartboard"
+
+#. Key:	0112
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0112"
+msgid "Fake Deer Head Sculpture"
+msgstr "Fake Deer Head Sculpture"
+
+#. Key:	0113
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0113"
+msgid "Gun Decoration (Desert Eagle)"
+msgstr "Gun Decoration (Desert Eagle)"
+
+#. Key:	0114
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0114"
+msgid "Gun Decoration (Shotgun)"
+msgstr "Gun Decoration (Shotgun)"
+
+#. Key:	0115
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0115"
+msgid "Gun Decoration (AR Rifle)"
+msgstr "Gun Decoration (AR Rifle)"
+
+#. Key:	0116
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0116"
+msgid "Gun Decoration (AWP Sniper Rifle)"
+msgstr "Gun Decoration (AWP Sniper Rifle)"
+
+#. Key:	0117
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0117"
+msgid "Gun Decoration (Future Tech Cannon)"
+msgstr "Gun Decoration (Future Tech Cannon)"
+
+#. Key:	0118
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0118"
+msgid "Weapon Decoration (Zombie Doodle Style Chainsaw)"
+msgstr "Weapon Decoration (Zombie Doodle Style Chainsaw)"
+
+#. Key:	0119
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0119"
+msgid "Weapon Decoration (Knight Sword)"
+msgstr "Weapon Decoration (Knight Sword)"
+
+#. Key:	0120
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0120"
+msgid "Weapon Decoration (Katana)"
+msgstr "Weapon Decoration (Katana)"
+
+#. Key:	0121
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0121"
+msgid "Weapon Decoration (Light Saber)"
+msgstr "Weapon Decoration (Light Saber)"
+
+#. Key:	0122
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0122"
+msgid "Weapon Decoration (Morning Star Hammer)"
+msgstr "Weapon Decoration (Morning Star Hammer)"
+
+#. Key:	0123
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0123"
+msgid "Weapon Decoration (Fire Axe)"
+msgstr "Weapon Decoration (Fire Axe)"
+
+#. Key:	0124
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0124"
+msgid "Weapon Decoration (Bow and Arrow)"
+msgstr "Weapon Decoration (Bow and Arrow)"
+
+#. Key:	0125
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0125"
+msgid "Weapon Decoration (Shield)"
+msgstr "Weapon Decoration (Shield)"
+
+#. Key:	0126
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0126"
+msgid "Wine Bottle Rack (Wine Bottle Rack)"
+msgstr "Wine Bottle Rack (Wine Bottle Rack)"
+
+#. Key:	0127
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0127"
+msgid "Basket"
+msgstr "Basket"
+
+#. Key:	0128
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0128"
+msgid "Exit"
+msgstr "Exit"
+
+#. Key:	0129
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0129"
+msgid "Modeling LED Strip (Linear - Red)"
+msgstr "Modeling LED Strip (Linear - Red)"
+
+#. Key:	0130
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0130"
+msgid "Modeling LED Strip (Linear - Orange)"
+msgstr "Modeling LED Strip (Linear - Orange)"
+
+#. Key:	0131
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0131"
+msgid "Modeling LED Strip (Linear - Yellow)"
+msgstr "Modeling LED Strip (Linear - Yellow)"
+
+#. Key:	0132
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0132"
+msgid "Modeling LED Strip (Linear - Green)"
+msgstr "Modeling LED Strip (Linear - Green)"
+
+#. Key:	0133
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0133"
+msgid "Modeling LED Strip (Linear - Blue)"
+msgstr "Modeling LED Strip (Linear - Blue)"
+
+#. Key:	0134
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0134"
+msgid "Modeling LED Strip (Linear - Purple)"
+msgstr "Modeling LED Strip (Linear - Purple)"
+
+#. Key:	0135
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0135"
+msgid "Modeling LED Strip (Linear - White)"
+msgstr "Modeling LED Strip (Linear - White)"
+
+#. Key:	0136
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0136"
+msgid "Modeling LED Strip (Corner Line - Red)"
+msgstr "Modeling LED Strip (Corner Line - Red)"
+
+#. Key:	0137
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0137"
+msgid "Modeling LED Strip (Corner Line - Orange)"
+msgstr "Modeling LED Strip (Corner Line - Orange)"
+
+#. Key:	0138
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0138"
+msgid "Modeling LED Strip (Corner Line - Yellow)"
+msgstr "Modeling LED Strip (Corner Line - Yellow)"
+
+#. Key:	0139
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0139"
+msgid "Modeling LED Strip (Corner Line - Green)"
+msgstr "Modeling LED Strip (Corner Line - Green)"
+
+#. Key:	0140
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0140"
+msgid "Modeling LED Strip (Corner Line - Blue)"
+msgstr "Modeling LED Strip (Corner Line - Blue)"
+
+#. Key:	0141
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0141"
+msgid "Modeling LED Strip (Corner Line - Purple)"
+msgstr "Modeling LED Strip (Corner Line - Purple)"
+
+#. Key:	0142
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0142"
+msgid "Modeling LED Strip (Corner Line - White)"
+msgstr "Modeling LED Strip (Corner Line - White)"
+
+#. Key:	0143
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0143"
+msgid "Modeling LED Strip (Word-ROCK)"
+msgstr "Modeling LED Strip (Word-ROCK)"
+
+#. Key:	0144
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0144"
+msgid "Modeling LED Strip (Word-ARCADE)"
+msgstr "Modeling LED Strip (Word-ARCADE)"
+
+#. Key:	0145
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0145"
+msgid "Modeling LED Strip (Word-SHOOT)"
+msgstr "Modeling LED Strip (Word-SHOOT)"
+
+#. Key:	0146
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0146"
+msgid "Modeling LED Strip (Word-RACE)"
+msgstr "Modeling LED Strip (Word-RACE)"
+
+#. Key:	0147
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0147"
+msgid "Modeling LED Strip (Word-SPORT)"
+msgstr "Modeling LED Strip (Word-SPORT)"
+
+#. Key:	0148
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0148"
+msgid "Modeling LED Strip (Word-FUN)"
+msgstr "Modeling LED Strip (Word-FUN)"
+
+#. Key:	0149
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0149"
+msgid "Modeling LED Strip (Word-PLAY)"
+msgstr "Modeling LED Strip (Word-PLAY)"
+
+#. Key:	0150
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0150"
+msgid "Modeling LED Strip (Word-FOOD)"
+msgstr "Modeling LED Strip (Word-FOOD)"
+
+#. Key:	0151
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0151"
+msgid "Modeling LED Strip (Machine)"
+msgstr "Modeling LED Strip (Machine)"
+
+#. Key:	0152
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0152"
+msgid "Modeling LED Strip (Rocker)"
+msgstr "Modeling LED Strip (Rocker)"
+
+#. Key:	0153
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0153"
+msgid "Modeling LED Strip (Chinese Dragon)"
+msgstr "Modeling LED Strip (Chinese Dragon)"
+
+#. Key:	0154
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0154"
+msgid "Modeling LED Strip (Hot Dog Burger)"
+msgstr "Modeling LED Strip (Hot Dog Burger)"
+
+#. Key:	0155
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0155"
+msgid "Modeling LED Strip (Day of the Dead Skull)"
+msgstr "Modeling LED Strip (Day of the Dead Skull)"
+
+#. Key:	0156
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0156"
+msgid "Modeling LED Strip (Pac-Man Ghost)"
+msgstr "Modeling LED Strip (Pac-Man Ghost)"
+
+#. Key:	0157
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0157"
+msgid "Modeling LED Strip (Gun)"
+msgstr "Modeling LED Strip (Gun)"
+
+#. Key:	0158
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0158"
+msgid "Modeling LED Strip (Samurai Ghost Face)"
+msgstr "Modeling LED Strip (Samurai Ghost Face)"
+
+#. Key:	0159
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0159"
+msgid "Modeling LED Strip (Flame)"
+msgstr "Modeling LED Strip (Flame)"
+
+#. Key:	0160
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0160"
+msgid "Modeling LED Strip (Space Destroyer)"
+msgstr "Modeling LED Strip (Space Destroyer)"
+
+#. Key:	0161
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0161"
+msgid "Modeling LED Strip (Zombie Head)"
+msgstr "Modeling LED Strip (Zombie Head)"
+
+#. Key:	0162
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0162"
+msgid "Modeling LED Strip (Arrow)"
+msgstr "Modeling LED Strip (Arrow)"
+
+#. Key:	0163
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0163"
+msgid "Modeling LED Block (Pink Blue)"
+msgstr "Modeling LED Block (Pink Blue)"
+
+#. Key:	0164
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0164"
+msgid "Modeling LED Block (Pink)"
+msgstr "Modeling LED Block (Pink)"
+
+#. Key:	0165
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0165"
+msgid "Modeling LED Block (Pink Purple)"
+msgstr "Modeling LED Block (Pink Purple)"
+
+#. Key:	0166
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0166"
+msgid "Modeling LED Block (Pink Green)"
+msgstr "Modeling LED Block (Pink Green)"
+
+#. Key:	0167
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0167"
+msgid "Modeling LED Block (Pink Yellow)"
+msgstr "Modeling LED Block (Pink Yellow)"
+
+#. Key:	0168
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0168"
+msgid "Modeling LED Block (Pink Orange)"
+msgstr "Modeling LED Block (Pink Orange)"
+
+#. Key:	0169
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0169"
+msgid "Modeling LED Block (Grey)"
+msgstr "Modeling LED Block (Grey)"
+
+#. Key:	0170
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0170"
+msgid "VR Headset"
+msgstr "VR Headset"
+
+#. Key:	0171
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0171"
+msgid "Shooting Small Target"
+msgstr "Shooting Small Target"
+
+#. Key:	0172
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0172"
+msgid "Toy Plane (World War I)"
+msgstr "Toy Plane (World War I)"
+
+#. Key:	0173
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0173"
+msgid "Toy Plane (World War II)"
+msgstr "Toy Plane (World War II)"
+
+#. Key:	0174
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0174"
+msgid "Toy Airplane (Modern)"
+msgstr "Toy Airplane (Modern)"
+
+#. Key:	0175
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0175"
+msgid "Toy Airplane (Space)"
+msgstr "Toy Airplane (Space)"
+
+#. Key:	0176
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0176"
+msgid "UFO Frisbee"
+msgstr "UFO Frisbee"
+
+#. Key:	0177
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0177"
+msgid "Darts (Red)"
+msgstr "Darts (Red)"
+
+#. Key:	0178
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0178"
+msgid "Darts (Blue)"
+msgstr "Darts (Blue)"
+
+#. Key:	0179
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0179"
+msgid "Darts (Green)"
+msgstr "Darts (Green)"
+
+#. Key:	0180
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0180"
+msgid "Darts (Orange)"
+msgstr "Darts (Orange)"
+
+#. Key:	0181
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0181"
+msgid "Ninja Darts"
+msgstr "Ninja Darts"
+
+#. Key:	0182
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0182"
+msgid "Throwing Axe"
+msgstr "Throwing Axe"
+
+#. Key:	0183
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0183"
+msgid "Basketball"
+msgstr "Basketball"
+
+#. Key:	0184
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0184"
+msgid "Firecrackers"
+msgstr "Firecrackers"
+
+#. Key:	0185
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0185"
+msgid "Food (Pizza)"
+msgstr "Food (Pizza)"
+
+#. Key:	0186
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0186"
+msgid "Food (Burger)"
+msgstr "Food (Burger)"
+
+#. Key:	0187
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0187"
+msgid "Food (Popcorn)"
+msgstr "Food (Popcorn)"
+
+#. Key:	0188
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0188"
+msgid "Food (Ice cream)"
+msgstr "Food (Ice cream)"
+
+#. Key:	0189
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0189"
+msgid "Beverages (Bottled Water)"
+msgstr "Beverages (Bottled Water)"
+
+#. Key:	0190
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0190"
+msgid "Beverages (Aluminum Cans)"
+msgstr "Beverages (Aluminum Cans)"
+
+#. Key:	0191
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0191"
+msgid "Beverages (Beverages in paper cups)"
+msgstr "Beverages (Beverages in paper cups)"
+
+#. Key:	0192
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0192"
+msgid "Beverage (Wooden Cup McGonagall)"
+msgstr "Beverage (Wooden Cup McGonagall)"
+
+#. Key:	0193
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0193"
+msgid "Bell"
+msgstr "Bell"
+
+#. Key:	0194
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0194"
+msgid "Table Potted Plant (Small)"
+msgstr "Table Potted Plant (Small)"
+
+#. Key:	0195
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0195"
+msgid "Table Potted Plant (Middle)"
+msgstr "Table Potted Plant (Middle)"
+
+#. Key:	0196
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0196"
+msgid "Table Potted Plant (Large)"
+msgstr "Table Potted Plant (Large)"
+
+#. Key:	0197
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0197"
+msgid "Radio"
+msgstr "Radio"
+
+#. Key:	0198
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0198"
+msgid "Stack of books"
+msgstr "Stack of books"
+
+#. Key:	0199
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0199"
+msgid "Desk Lamp"
+msgstr "Desk Lamp"
+
+#. Key:	0200
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0200"
+msgid "Minifigure (Quantaar - Quasar)"
+msgstr "Minifigure (Quantaar - Quasar)"
+
+#. Key:	0201
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0201"
+msgid "Minifigure (Quantaar - Gummy Bear)"
+msgstr "Minifigure (Quantaar - Gummy Bear)"
+
+#. Key:	0202
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0202"
+msgid "Minifigure (Quantaar - CaptainFury)"
+msgstr "Minifigure (Quantaar - CaptainFury)"
+
+#. Key:	0203
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0203"
+msgid "Minifigure (Quantaar - Analog)"
+msgstr "Minifigure (Quantaar - Analog)"
+
+#. Key:	0204
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0204"
+msgid "Minifigure (Quantaar - ShadowSan)"
+msgstr "Minifigure (Quantaar - ShadowSan)"
+
+#. Key:	0205
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0205"
+msgid "Minifigure (Taboo - Doll)"
+msgstr "Minifigure (Taboo - Doll)"
+
+#. Key:	0206
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0206"
+msgid "Computer Screen + Mouse + Keyboard (Old)"
+msgstr "Computer Screen + Mouse + Keyboard (Old)"
+
+#. Key:	0207
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0207"
+msgid "Computer Screen + Mouse + Keyboard (Commercial)"
+msgstr "Computer Screen + Mouse + Keyboard (Commercial)"
+
+#. Key:	0208
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0208"
+msgid "Computer Screen + Mouse + Keyboard (Sports Surface)"
+msgstr "Computer Screen + Mouse + Keyboard (Sports Surface)"
+
+#. Key:	0209
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0209"
+msgid "TV Game Equipment Group (Small)"
+msgstr "TV Game Equipment Group (Small)"
+
+#. Key:	0210
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0210"
+msgid "TV Game Equipment Group (Middle)"
+msgstr "TV Game Equipment Group (Middle)"
+
+#. Key:	0211
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0211"
+msgid "TV Game Equipment Group (Large)"
+msgstr "TV Game Equipment Group (Large)"
+
+#. Key:	0212
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0212"
+msgid "Dumbbel"
+msgstr "Dumbbel"
+
+#. Key:	0213
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0213"
+msgid "Bell Kettle"
+msgstr "Bell Kettle"
+
+#. Key:	0214
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0214"
+msgid "Lottery Shop (Small)"
+msgstr "Lottery Shop (Small)"
+
+#. Key:	0215
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0215"
+msgid "Lottery Shop (Middle)"
+msgstr "Lottery Shop (Middle)"
+
+#. Key:	0216
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0216"
+msgid "Lottery Shop (Large)"
+msgstr "Lottery Shop (Large)"
+
+#. Key:	0217
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0217"
+msgid "Arcade-1"
+msgstr "Arcade-1"
+
+#. Key:	0218
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0218"
+msgid "Currency Exchange Machine"
+msgstr "Currency Exchange Machine"
+
+#. Key:	0219
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0219"
+msgid "Darts Roulette"
+msgstr "Darts Roulette"
+
+#. Key:	0220
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0220"
+msgid "Coin Pusher"
+msgstr "Coin Pusher"
+
+#. Key:	0221
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0221"
+msgid "Roulette"
+msgstr "Roulette"
+
+#. Key:	0222
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0222"
+msgid "Pinball"
+msgstr "Pinball"
+
+#. Key:	0223
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0223"
+msgid "Basketball Machine"
+msgstr "Basketball Machine"
+
+#. Key:	0224
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0224"
+msgid "Jiugongge trash can"
+msgstr "Jiugongge trash can"
+
+#. Key:	0225
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0225"
+msgid "Throwing Axe Facility"
+msgstr "Throwing Axe Facility"
+
+#. Key:	0226
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0226"
+msgid "Circle Throwing Facility"
+msgstr "Circle Throwing Facility"
+
+#. Key:	0227
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0227"
+msgid "Pinball Hole Facility"
+msgstr "Pinball Hole Facility"
+
+#. Key:	0228
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0228"
+msgid "Throw Grenade Facility"
+msgstr "Throw Grenade Facility"
+
+#. Key:	0229
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0229"
+msgid "Boxing Machine"
+msgstr "Boxing Machine"
+
+#. Key:	0230
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0230"
+msgid "Pick-up Machine"
+msgstr "Pick-up Machine"
+
+#. Key:	0231
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0231"
+msgid "Dig Crocodile Machine"
+msgstr "Dig Crocodile Machine"
+
+#. Key:	0232
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0232"
+msgid "Archery Jiugongge"
+msgstr "Archery Jiugongge"
+
+#. Key:	0233
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0233"
+msgid "Teeth Shooting Facility"
+msgstr "Teeth Shooting Facility"
+
+#. Key:	0234
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0234"
+msgid "Zombie Survive "
+msgstr "Zombie Survive "
+
+#. Key:	0235
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0235"
+msgid "Current Rush Bar"
+msgstr "Current Rush Bar"
+
+#. Key:	0236
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0236"
+msgid "Push Bowling"
+msgstr "Push Bowling"
+
+#. Key:	0237
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0237"
+msgid "Fruit Ninja"
+msgstr "Fruit Ninja"
+
+#. Key:	0238
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0238"
+msgid "Drone Fishing"
+msgstr "Drone Fishing"
+
+#. Key:	0239
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0239"
+msgid "Claw Machine (Dinosaur Series)"
+msgstr "Claw Machine (Dinosaur Series)"
+
+#. Key:	0240
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0240"
+msgid "Claw Machine (Doll Series)"
+msgstr "Claw Machine (Doll Series)"
+
+#. Key:	0241
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0241"
+msgid "Claw Machine (Animal Series)"
+msgstr "Claw Machine (Animal Series)"
+
+#. Key:	0242
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0242"
+msgid "A-1"
+msgstr "A-1"
+
+#. Key:	0243
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0243"
+msgid "A-2"
+msgstr "A-2"
+
+#. Key:	0244
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0244"
+msgid "B-1"
+msgstr "B-1"
+
+#. Key:	0245
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0245"
+msgid "B-2"
+msgstr "B-2"
+
+#. Key:	0246
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0246"
+msgid "B-3"
+msgstr "B-3"
+
+#. Key:	0247
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0247"
+msgid "C-1"
+msgstr "C-1"
+
+#. Key:	0248
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0248"
+msgid "C-2"
+msgstr "C-2"
+
+#. Key:	0249
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0249"
+msgid "C-3"
+msgstr "C-3"
+
+#. Key:	0250
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0250"
+msgid "D-1"
+msgstr "D-1"
+
+#. Key:	0251
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0251"
+msgid "D-2"
+msgstr "D-2"
+
+#. Key:	0252
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0252"
+msgid "Claw Machine (Food Series)"
+msgstr "Claw Machine (Food Series)"
+
+#. Key:	0253
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0253"
+msgid "Bowling"
+msgstr "Bowling"
+
+#. Key:	0254
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0254"
+msgid "Arcade-2"
+msgstr "Arcade-2"
+
+#. Key:	0255
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0255"
+msgid "Arcade-3"
+msgstr "Arcade-3"
+
+#. Key:	0256
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0256"
+msgid "Arcade-4"
+msgstr "Arcade-4"
+
+#. Key:	0260
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0260"
+msgid "FireExtinguisher"
+msgstr "FireExtinguisher"
+
+#. Key:	0261
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0261"
+msgid "Rodenticide"
+msgstr "Rodenticide"
+
+#. Key:	0307
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0307"
+msgid "FireExtinguisher"
+msgstr "FireExtinguisher"
+
+#. Key:	0308
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0308"
+msgid "Cleaning Utensils"
+msgstr "Cleaning Utensils"
+
+#. Key:	0309
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0309"
+msgid "Rodenticide"
+msgstr "Rodenticide"
+
+#. Key:	0384
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+#: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
+msgctxt "ST_,0384"
+msgid "Maintenance Tool"
+msgstr "Maintenance Tool"
+
+#. Key:	000001
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,000001"
+msgid "Male face 1 (Young teeth)"
+msgstr "Male face 1 (Young teeth)"
+
+#. Key:	000002
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,000002"
+msgid "Male face 2 (Youth)"
+msgstr "Male face 2 (Youth)"
+
+#. Key:	000003
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,000003"
+msgid "Male face 2 (Mature)"
+msgstr "Male face 2 (Mature)"
+
+#. Key:	000004
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,000004"
+msgid "Female face 2 (Young teeth)"
+msgstr "Female face 2 (Young teeth)"
+
+#. Key:	000005
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,000005"
+msgid "Female face 2 (Youth)"
+msgstr "Female face 2 (Youth)"
+
+#. Key:	000006
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,000006"
+msgid "Female face 2 (Mature)"
+msgstr "Female face 2 (Mature)"
+
+#. Key:	010001
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,010001"
+msgid "SkinColor"
+msgstr "SkinColor"
+
+#. Key:	020001
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020001"
+msgid "Male Hairstyle 1"
+msgstr "Male Hairstyle 1"
+
+#. Key:	020002
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020002"
+msgid "Male Hairstyle 2"
+msgstr "Male Hairstyle 2"
+
+#. Key:	020003
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020003"
+msgid "Male Hairstyle 3"
+msgstr "Male Hairstyle 3"
+
+#. Key:	020004
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020004"
+msgid "Male Hairstyle 4"
+msgstr "Male Hairstyle 4"
+
+#. Key:	020005
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020005"
+msgid "Male Hairstyle 5"
+msgstr "Male Hairstyle 5"
+
+#. Key:	020006
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020006"
+msgid "Male Hairstyle 6"
+msgstr "Male Hairstyle 6"
+
+#. Key:	020007
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020007"
+msgid "Male Hairstyle 7"
+msgstr "Male Hairstyle 7"
+
+#. Key:	020008
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020008"
+msgid "Male Hairstyle 8"
+msgstr "Male Hairstyle 8"
+
+#. Key:	020009
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020009"
+msgid "Male Hairstyle 9"
+msgstr "Male Hairstyle 9"
+
+#. Key:	020010
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020010"
+msgid "Male Hairstyle 10"
+msgstr "Male Hairstyle 10"
+
+#. Key:	020011
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020011"
+msgid "Female Hairstyle 1"
+msgstr "Female Hairstyle 1"
+
+#. Key:	020012
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020012"
+msgid "Female Hairstyle 2"
+msgstr "Female Hairstyle 2"
+
+#. Key:	020013
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020013"
+msgid "Female Hairstyle 3"
+msgstr "Female Hairstyle 3"
+
+#. Key:	020014
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020014"
+msgid "Female Hairstyle 4"
+msgstr "Female Hairstyle 4"
+
+#. Key:	020015
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020015"
+msgid "Female Hairstyle 5"
+msgstr "Female Hairstyle 5"
+
+#. Key:	020016
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020016"
+msgid "Female Hairstyle 6"
+msgstr "Female Hairstyle 6"
+
+#. Key:	020017
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020017"
+msgid "Female Hairstyle 7"
+msgstr "Female Hairstyle 7"
+
+#. Key:	020018
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020018"
+msgid "Female Hairstyle 8"
+msgstr "Female Hairstyle 8"
+
+#. Key:	020019
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020019"
+msgid "Female Hairstyle 9"
+msgstr "Female Hairstyle 9"
+
+#. Key:	020020
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,020020"
+msgid "Female Hairstyle 10"
+msgstr "Female Hairstyle 10"
+
+#. Key:	030001
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,030001"
+msgid "Hair Color"
+msgstr "Hair Color"
+
+#. Key:	040001
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,040001"
+msgid "Scarf 1"
+msgstr "Scarf 1"
+
+#. Key:	040002
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,040002"
+msgid "Scarf 2"
+msgstr "Scarf 2"
+
+#. Key:	040003
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,040003"
+msgid "Scarf 3"
+msgstr "Scarf 3"
+
+#. Key:	040004
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,040004"
+msgid "Headband 1"
+msgstr "Headband 1"
+
+#. Key:	040005
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,040005"
+msgid "Headband 2"
+msgstr "Headband 2"
+
+#. Key:	040006
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,040006"
+msgid "Headband 3"
+msgstr "Headband 3"
+
+#. Key:	040007
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,040007"
+msgid "Hipple Fur Hat"
+msgstr "Hipple Fur Hat"
+
+#. Key:	040008
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,040008"
+msgid "Peaked Cap 1"
+msgstr "Peaked Cap 1"
+
+#. Key:	040009
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,040009"
+msgid "Peaked Cap 2"
+msgstr "Peaked Cap 2"
+
+#. Key:	040010
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,040010"
+msgid "Peaked Cap 3"
+msgstr "Peaked Cap 3"
+
+#. Key:	040011
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,040011"
+msgid "Fisherman's Hat 1"
+msgstr "Fisherman's Hat 1"
+
+#. Key:	040012
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,040012"
+msgid "Fisherman's Hat 2"
+msgstr "Fisherman's Hat 2"
+
+#. Key:	040013
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,040013"
+msgid "Fisherman's Hat 3"
+msgstr "Fisherman's Hat 3"
+
+#. Key:	050001
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050001"
+msgid "Men's Clothing 1"
+msgstr "Men's Clothing 1"
+
+#. Key:	050002
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050002"
+msgid "Men's Clothing 2"
+msgstr "Men's Clothing 2"
+
+#. Key:	050003
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050003"
+msgid "Men's Clothing 3"
+msgstr "Men's Clothing 3"
+
+#. Key:	050004
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050004"
+msgid "Men's Clothing 4"
+msgstr "Men's Clothing 4"
+
+#. Key:	050005
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050005"
+msgid "Men's Clothing 5"
+msgstr "Men's Clothing 5"
+
+#. Key:	050006
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050006"
+msgid "Men's Clothing 6"
+msgstr "Men's Clothing 6"
+
+#. Key:	050007
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050007"
+msgid "Men's Clothing 7"
+msgstr "Men's Clothing 7"
+
+#. Key:	050008
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050008"
+msgid "Men's Clothing 8"
+msgstr "Men's Clothing 8"
+
+#. Key:	050009
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050009"
+msgid "Men's Clothing 9"
+msgstr "Men's Clothing 9"
+
+#. Key:	050010
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050010"
+msgid "Men's Clothing 10"
+msgstr "Men's Clothing 10"
+
+#. Key:	050011
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050011"
+msgid "Female's Clothing 10"
+msgstr "Female's Clothing 10"
+
+#. Key:	050012
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050012"
+msgid "Female's Clothing 11"
+msgstr "Female's Clothing 11"
+
+#. Key:	050013
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050013"
+msgid "Female's Clothing 12"
+msgstr "Female's Clothing 12"
+
+#. Key:	050014
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050014"
+msgid "Female's Clothing 13"
+msgstr "Female's Clothing 13"
+
+#. Key:	050015
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050015"
+msgid "Female's Clothing 14"
+msgstr "Female's Clothing 14"
+
+#. Key:	050016
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050016"
+msgid "Female's Clothing 15"
+msgstr "Female's Clothing 15"
+
+#. Key:	050017
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050017"
+msgid "Female's Clothing 16"
+msgstr "Female's Clothing 16"
+
+#. Key:	050018
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050018"
+msgid "Female's Clothing 17"
+msgstr "Female's Clothing 17"
+
+#. Key:	050019
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050019"
+msgid "Female's Clothing 18"
+msgstr "Female's Clothing 18"
+
+#. Key:	050020
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,050020"
+msgid "Female's Clothing 19"
+msgstr "Female's Clothing 19"
+
+#. Key:	060001
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,060001"
+msgid "Sunglasses"
+msgstr "Sunglasses"
+
+#. Key:	060002
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,060002"
+msgid "Nose Ring"
+msgstr "Nose Ring"
+
+#. Key:	060003
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+#: /Game/Retroverse/StringTable/ST_AvatarName.ST_AvatarName
+msgctxt "ST_AvatarName,060003"
+msgid "Earrings"
+msgstr "Earrings"
+
+#. Key:	A_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,A_01"
+msgid "A"
+msgstr "A"
+
+#. Key:	ALL_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ALL_01"
+msgid "All"
+msgstr "All"
+
+#. Key:	Analysis_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,Analysis_01"
+msgid "Big data analysis"
+msgstr "Big data analysis"
+
+#. Key:	ARCADE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ARCADE_01"
+msgid "Arcade"
+msgstr "Arcade"
+
+#. Key:	ARCADE_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ARCADE_02"
+msgid "Enter Arcade mode"
+msgstr "Enter Arcade mode"
+
+#. Key:	ARCADE_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ARCADE_03"
+msgid "Abort Arcade mode"
+msgstr "Abort Arcade mode"
+
+#. Key:	B_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,B_01"
+msgid "B"
+msgstr "B"
+
+#. Key:	BACK_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BACK_01"
+msgid "Go to lobby"
+msgstr "Go to lobby"
+
+#. Key:	BACK_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BACK_02"
+msgid "Are you sure you want to go to lobby?"
+msgstr "Are you sure you want to go to lobby?"
+
+#. Key:	BACK_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BACK_03"
+msgid "Back"
+msgstr "Back"
+
+#. Key:	BODY_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BODY_01"
+msgid "Body"
+msgstr "Body"
+
+#. Key:	BREAKTHROUGH_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_01"
+msgid "Skip build phase"
+msgstr "Skip build phase"
+
+#. Key:	BREAKTHROUGH_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_02"
+msgid "Extra reward"
+msgstr "Extra reward"
+
+#. Key:	BREAKTHROUGH_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_03"
+msgid "Time"
+msgstr "Time"
+
+#. Key:	BREAKTHROUGH_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_04"
+msgid "Remaining time"
+msgstr "Remaining time"
+
+#. Key:	BREAKTHROUGH_05
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_05"
+msgid "Customer"
+msgstr "Customer"
+
+#. Key:	BREAKTHROUGH_06
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_06"
+msgid "Buff"
+msgstr "Buff"
+
+#. Key:	BREAKTHROUGH_07
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_07"
+msgid "Debuff"
+msgstr "Debuff"
+
+#. Key:	BREAKTHROUGH_08
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_08"
+msgid "Info"
+msgstr "Info"
+
+#. Key:	BREAKTHROUGH_09
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_09"
+msgid "Comment"
+msgstr "Comment"
+
+#. Key:	BREAKTHROUGH_10
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_10"
+msgid "liking "
+msgstr "liking "
+
+#. Key:	BREAKTHROUGH_11
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_11"
+msgid "disliking "
+msgstr "disliking "
+
+#. Key:	BREAKTHROUGH_12
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_12"
+msgid "not particularly liking "
+msgstr "not particularly liking "
+
+#. Key:	BREAKTHROUGH_13
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_13"
+msgid "not particularly disliking "
+msgstr "not particularly disliking "
+
+#. Key:	BREAKTHROUGH_14
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_14"
+msgid "food to eat "
+msgstr "food to eat "
+
+#. Key:	BREAKTHROUGH_15
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_15"
+msgid "place to rest "
+msgstr "place to rest "
+
+#. Key:	BREAKTHROUGH_16
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_16"
+msgid "arcade to play "
+msgstr "arcade to play "
+
+#. Key:	BREAKTHROUGH_17
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_17"
+msgid "item to photograph "
+msgstr "item to photograph "
+
+#. Key:	BREAKTHROUGH_18
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_18"
+msgid "thumbs up"
+msgstr "thumbs up"
+
+#. Key:	BREAKTHROUGH_19
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_19"
+msgid "thumbs down "
+msgstr "thumbs down "
+
+#. Key:	BREAKTHROUGH_20
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_20"
+msgid ", gave a "
+msgstr ", gave a "
+
+#. Key:	BREAKTHROUGH_21
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_21"
+msgid " because of disliking "
+msgstr " because of disliking "
+
+#. Key:	BREAKTHROUGH_22
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_22"
+msgid "dirt, gave a thumbs down"
+msgstr "dirt, gave a thumbs down"
+
+#. Key:	BREAKTHROUGH_23
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_23"
+msgid "large trash"
+msgstr "large trash"
+
+#. Key:	BREAKTHROUGH_24
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_24"
+msgid "exit"
+msgstr "exit"
+
+#. Key:	BREAKTHROUGH_25
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_25"
+msgid "go to main menu"
+msgstr "go to main menu"
+
+#. Key:	BREAKTHROUGH_26
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_26"
+msgid "exit game"
+msgstr "exit game"
+
+#. Key:	BREAKTHROUGH_27
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_27"
+msgid "item"
+msgstr "item"
+
+#. Key:	BREAKTHROUGH_28
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_28"
+msgid "Income"
+msgstr "Income"
+
+#. Key:	BREAKTHROUGH_29
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_29"
+msgid "Resolved"
+msgstr "Resolved"
+
+#. Key:	BREAKTHROUGH_30
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_30"
+msgid "Fun"
+msgstr "Fun"
+
+#. Key:	BREAKTHROUGH_31
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_31"
+msgid "Comfort"
+msgstr "Comfort"
+
+#. Key:	BREAKTHROUGH_32
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_32"
+msgid "Art"
+msgstr "Art"
+
+#. Key:	BREAKTHROUGH_33
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_33"
+msgid "This Wave"
+msgstr "This Wave"
+
+#. Key:	BREAKTHROUGH_34
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_34"
+msgid "Total"
+msgstr "Total"
+
+#. Key:	BREAKTHROUGH_35
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_35"
+msgid "Success"
+msgstr "Success"
+
+#. Key:	BREAKTHROUGH_36
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_36"
+msgid "Failed"
+msgstr "Failed"
+
+#. Key:	BREAKTHROUGH_37
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_37"
+msgid "Bankrupt"
+msgstr "Bankrupt"
+
+#. Key:	BREAKTHROUGH_38
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_38"
+msgid "Remaining money"
+msgstr "Remaining money"
+
+#. Key:	BREAKTHROUGH_39
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_39"
+msgid "Wave survived"
+msgstr "Wave survived"
+
+#. Key:	BREAKTHROUGH_40
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_40"
+msgid "Thumbs up received"
+msgstr "Thumbs up received"
+
+#. Key:	BREAKTHROUGH_41
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_41"
+msgid "Total received"
+msgstr "Total received"
+
+#. Key:	BREAKTHROUGH_42
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_42"
+msgid "Next Wave"
+msgstr "Next Wave"
+
+#. Key:	BREAKTHROUGH_43
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_43"
+msgid "building phase"
+msgstr "building phase"
+
+#. Key:	BREAKTHROUGH_44
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_44"
+msgid "business phase"
+msgstr "business phase"
+
+#. Key:	BREAKTHROUGH_45
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_45"
+msgid "go to decoration"
+msgstr "go to decoration"
+
+#. Key:	BREAKTHROUGH_46
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_46"
+msgid "go to vending machine or food"
+msgstr "go to vending machine or food"
+
+#. Key:	BREAKTHROUGH_47
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_47"
+msgid "go to game machine"
+msgstr "go to game machine"
+
+#. Key:	BREAKTHROUGH_48
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_48"
+msgid "go resting in a seat"
+msgstr "go resting in a seat"
+
+#. Key:	BREAKTHROUGH_49
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_49"
+msgid "go finding trashes"
+msgstr "go finding trashes"
+
+#. Key:	BREAKTHROUGH_50
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_50"
+msgid "go being idle"
+msgstr "go being idle"
+
+#. Key:	BREAKTHROUGH_51
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_51"
+msgid "go claiming prizes"
+msgstr "go claiming prizes"
+
+#. Key:	BREAKTHROUGH_52
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_52"
+msgid "go smashing things"
+msgstr "go smashing things"
+
+#. Key:	BREAKTHROUGH_53
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_53"
+msgid "go to the gate"
+msgstr "go to the gate"
+
+#. Key:	BREAKTHROUGH_54
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_54"
+msgid "go to arcade machine"
+msgstr "go to arcade machine"
+
+#. Key:	BREAKTHROUGH_55
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_55"
+msgid "smashing things"
+msgstr "smashing things"
+
+#. Key:	BREAKTHROUGH_56
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_56"
+msgid "playing game machine"
+msgstr "playing game machine"
+
+#. Key:	BREAKTHROUGH_57
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_57"
+msgid "eating"
+msgstr "eating"
+
+#. Key:	BREAKTHROUGH_58
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_58"
+msgid "resting"
+msgstr "resting"
+
+#. Key:	BREAKTHROUGH_59
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_59"
+msgid "feeling bored"
+msgstr "feeling bored"
+
+#. Key:	BREAKTHROUGH_60
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_60"
+msgid "complaining"
+msgstr "complaining"
+
+#. Key:	BREAKTHROUGH_61
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_61"
+msgid "about to leave"
+msgstr "about to leave"
+
+#. Key:	BREAKTHROUGH_62
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_62"
+msgid "viewing"
+msgstr "viewing"
+
+#. Key:	BREAKTHROUGH_63
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_63"
+msgid "playing arcade machine"
+msgstr "playing arcade machine"
+
+#. Key:	BREAKTHROUGH_64
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_64"
+msgid "complaining about trashes"
+msgstr "complaining about trashes"
+
+#. Key:	BREAKTHROUGH_65
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_65"
+msgid "Joined successfully. Loading..."
+msgstr "Joined successfully. Loading..."
+
+#. Key:	BREAKTHROUGH_66
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_66"
+msgid "Failed to join in. The room doesn't exist"
+msgstr "Failed to join in. The room doesn't exist"
+
+#. Key:	BREAKTHROUGH_67
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_67"
+msgid "Joing in"
+msgstr "Joing in"
+
+#. Key:	BREAKTHROUGH_68
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_68"
+msgid "Waiting for players..."
+msgstr "Waiting for players..."
+
+#. Key:	BREAKTHROUGH_69
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_69"
+msgid "Purchase"
+msgstr "Purchase"
+
+#. Key:	BREAKTHROUGH_70
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_70"
+msgid "Are you sure you want to purchase it?"
+msgstr "Are you sure you want to purchase it?"
+
+#. Key:	BREAKTHROUGH_71
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_71"
+msgid "Moving method"
+msgstr "Moving method"
+
+#. Key:	BREAKTHROUGH_72
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_72"
+msgid "unable to find "
+msgstr "unable to find "
+
+#. Key:	BREAKTHROUGH_73
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_73"
+msgid " because of "
+msgstr " because of "
+
+#. Key:	BREAKTHROUGH_74
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_74"
+msgid "because of unable to find the place for prize claim, gave a thumbs down"
+msgstr "because of unable to find the place for prize claim, gave a thumbs down"
+
+#. Key:	BREAKTHROUGH_75
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_75"
+msgid "過關條件"
+msgstr "過關條件"
+
+#. Key:	BREAKTHROUGH_76
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_76"
+msgid "當前評價"
+msgstr "當前評價"
+
+#. Key:	BREAKTHROUGH_77
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_77"
+msgid "放棄進度"
+msgstr "放棄進度"
+
+#. Key:	BREAKTHROUGH_Item_Name_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_01"
+msgid "Deliver flyer"
+msgstr "Deliver flyer"
+
+#. Key:	BREAKTHROUGH_Item_Name_01_DEC
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_01_DEC"
+msgid "Add another 25% of customer amount in the next 3 waves"
+msgstr "Add another 25% of customer amount in the next 3 waves"
+
+#. Key:	BREAKTHROUGH_Item_Name_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_02"
+msgid "Advertise"
+msgstr "Advertise"
+
+#. Key:	BREAKTHROUGH_Item_Name_02_DEC
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_02_DEC"
+msgid "Add another 50% of customer amount in the next 3 waves"
+msgstr "Add another 50% of customer amount in the next 3 waves"
+
+#. Key:	BREAKTHROUGH_Item_Name_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_03"
+msgid "Poison"
+msgstr "Poison"
+
+#. Key:	BREAKTHROUGH_Item_Name_03_DEC
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_03_DEC"
+msgid "Resolve rat invading issue automatically in the next 2 waves"
+msgstr "Resolve rat invading issue automatically in the next 2 waves"
+
+#. Key:	BREAKTHROUGH_Item_Name_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_04"
+msgid "Security guard"
+msgstr "Security guard"
+
+#. Key:	BREAKTHROUGH_Item_Name_04_DEC
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_04_DEC"
+msgid "Resolve mad customer issue automatically in the next 2 waves"
+msgstr "Resolve mad customer issue automatically in the next 2 waves"
+
+#. Key:	BREAKTHROUGH_Item_Name_05
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_05"
+msgid "Fire sprinkler"
+msgstr "Fire sprinkler"
+
+#. Key:	BREAKTHROUGH_Item_Name_05_DEC
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_05_DEC"
+msgid "Resolve fire issue automatically in the next 2 waves"
+msgstr "Resolve fire issue automatically in the next 2 waves"
+
+#. Key:	BREAKTHROUGH_Item_Name_06
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_06"
+msgid "Robotic vacuum"
+msgstr "Robotic vacuum"
+
+#. Key:	BREAKTHROUGH_Item_Name_06_DEC
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_06_DEC"
+msgid "Resolve small trash issue automatically in the next 2 waves"
+msgstr "Resolve small trash issue automatically in the next 2 waves"
+
+#. Key:	BREAKTHROUGH_Item_Name_07
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_07"
+msgid "Smart UPS"
+msgstr "Smart UPS"
+
+#. Key:	BREAKTHROUGH_Item_Name_07_DEC
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_07_DEC"
+msgid "Resolve mechanical disorder issue automatically in the next 2 waves"
+msgstr "Resolve mechanical disorder issue automatically in the next 2 waves"
+
+#. Key:	BREAKTHROUGH_Item_Name_08
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_08"
+msgid "Nano coating"
+msgstr "Nano coating"
+
+#. Key:	BREAKTHROUGH_Item_Name_08_DEC
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_08_DEC"
+msgid "Resolve aforethought graffiti issue automatically in the next 2 waves"
+msgstr "Resolve aforethought graffiti issue automatically in the next 2 waves"
+
+#. Key:	BREAKTHROUGH_Item_Name_09
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_09"
+msgid "Alarm"
+msgstr "Alarm"
+
+#. Key:	BREAKTHROUGH_Item_Name_09_DEC
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BREAKTHROUGH_Item_Name_09_DEC"
+msgid "Raise alarm immediately when any issue happens in the next 3 waves"
+msgstr "Raise alarm immediately when any issue happens in the next 3 waves"
+
+#. Key:	BUILD_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BUILD_01"
+msgid "Click Build\"\""
+msgstr "Click Build\"\""
+
+#. Key:	BUILD_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BUILD_02"
+msgid "Build an equipment"
+msgstr "Build an equipment"
+
+#. Key:	BUILD_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BUILD_03"
+msgid "Build a ticket store\"\""
+msgstr "Build a ticket store\"\""
+
+#. Key:	BUILD_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BUILD_04"
+msgid "Build"
+msgstr "Build"
+
+#. Key:	BUILDING_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,BUILDING_01"
+msgid "Building "
+msgstr "Building "
+
+#. Key:	C_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,C_01"
+msgid "C"
+msgstr "C"
+
+#. Key:	CANCEL_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,CANCEL_01"
+msgid "Cancel"
+msgstr "Cancel"
+
+#. Key:	CEILING_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,CEILING_01"
+msgid "Ceiling Object"
+msgstr "Ceiling Object"
+
+#. Key:	CHAIR_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,CHAIR_01"
+msgid "Chair"
+msgstr "Chair"
+
+#. Key:	CHANGE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,CHANGE_01"
+msgid "Change"
+msgstr "Change"
+
+#. Key:	CHANGE_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,CHANGE_02"
+msgid "更換物體"
+msgstr "更換物體"
+
+#. Key:	CLOTH_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,CLOTH_01"
+msgid "Cloth"
+msgstr "Cloth"
+
+#. Key:	COLOR_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,COLOR_01"
+msgid "Hair color"
+msgstr "Hair color"
+
+#. Key:	COLOR_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,COLOR_02"
+msgid "Change color"
+msgstr "Change color"
+
+#. Key:	COLOR_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,COLOR_03"
+msgid "Change color"
+msgstr "Change color"
+
+#. Key:	CONFIRM_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,CONFIRM_01"
+msgid "Confirm"
+msgstr "Confirm"
+
+#. Key:	CONFIRM_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,CONFIRM_02"
+msgid "Confirm"
+msgstr "Confirm"
+
+#. Key:	CONTINUOUS_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,CONTINUOUS_01"
+msgid "Continuous Build"
+msgstr "Continuous Build"
+
+#. Key:	D_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,D_01"
+msgid "D"
+msgstr "D"
+
+#. Key:	DECORATION_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,DECORATION_01"
+msgid "Decoration"
+msgstr "Decoration"
+
+#. Key:	DECORATIVE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,DECORATIVE_01"
+msgid "Decorative Object"
+msgstr "Decorative Object"
+
+#. Key:	DEFAULT_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,DEFAULT_01"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	DELETE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,DELETE_01"
+msgid "Delete"
+msgstr "Delete"
+
+#. Key:	DELETE_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,DELETE_02"
+msgid "Delete profile data"
+msgstr "Delete profile data"
+
+#. Key:	DELETE_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,DELETE_03"
+msgid "Are you sure you want to delete this profile?"
+msgstr "Are you sure you want to delete this profile?"
+
+#. Key:	DELETE_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,DELETE_04"
+msgid "Delete"
+msgstr "Delete"
+
+#. Key:	DESK_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,DESK_01"
+msgid "Desk"
+msgstr "Desk"
+
+#. Key:	EDIT_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,EDIT_01"
+msgid "Edit Object"
+msgstr "Edit Object"
+
+#. Key:	EDIT_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,EDIT_02"
+msgid "Edit"
+msgstr "Edit"
+
+#. Key:	EFFECT_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,EFFECT_01"
+msgid "Effect"
+msgstr "Effect"
+
+#. Key:	EXPAND_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,EXPAND_01"
+msgid "expend room"
+msgstr "expend room"
+
+#. Key:	FACE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,FACE_01"
+msgid "Face"
+msgstr "Face"
+
+#. Key:	FACILITY_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,FACILITY_01"
+msgid "Click the Equipment\" tag\""
+msgstr "Click the Equipment\" tag\""
+
+#. Key:	FACILITY_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,FACILITY_02"
+msgid "Purchase an equipment"
+msgstr "Purchase an equipment"
+
+#. Key:	FACILITY_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,FACILITY_03"
+msgid "Click the Equipment\" tag\""
+msgstr "Click the Equipment\" tag\""
+
+#. Key:	FACILITY_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,FACILITY_04"
+msgid "equipment item"
+msgstr "equipment item"
+
+#. Key:	FILTER_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,FILTER_01"
+msgid "Owned"
+msgstr "Owned"
+
+#. Key:	FILTER_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,FILTER_02"
+msgid "Not owned"
+msgstr "Not owned"
+
+#. Key:	FILTER_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,FILTER_03"
+msgid "Locked "
+msgstr "Locked "
+
+#. Key:	FILTER_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,FILTER_04"
+msgid "Unlocked"
+msgstr "Unlocked"
+
+#. Key:	FILTER_05
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,FILTER_05"
+msgid "類型"
+msgstr "類型"
+
+#. Key:	FINISHED_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,FINISHED_01"
+msgid "Mission complete"
+msgstr "Mission complete"
+
+#. Key:	FLOOR_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,FLOOR_01"
+msgid "Floor Object"
+msgstr "Floor Object"
+
+#. Key:	GAME_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,GAME_01"
+msgid "New Game"
+msgstr "New Game"
+
+#. Key:	GAME_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,GAME_02"
+msgid "Load Game"
+msgstr "Load Game"
+
+#. Key:	GAME_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,GAME_03"
+msgid "leaderboard"
+msgstr "leaderboard"
+
+#. Key:	GUESTENEMY_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,GUESTENEMY_01"
+msgid "Gonna set fire!"
+msgstr "Gonna set fire!"
+
+#. Key:	GUESTENEMY_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,GUESTENEMY_02"
+msgid "Gonna draw graffiti!"
+msgstr "Gonna draw graffiti!"
+
+#. Key:	GUESTENEMY_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,GUESTENEMY_03"
+msgid "Gonna smash stuff!"
+msgstr "Gonna smash stuff!"
+
+#. Key:	GUESTENEMY_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,GUESTENEMY_04"
+msgid "Gonna set rats!"
+msgstr "Gonna set rats!"
+
+#. Key:	GUESTENEMY_05
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,GUESTENEMY_05"
+msgid "Give me the money!"
+msgstr "Give me the money!"
+
+#. Key:	GUESTENEMY_06
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,GUESTENEMY_06"
+msgid "Just wait and see!"
+msgstr "Just wait and see!"
+
+#. Key:	GUESTENEMY_07
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,GUESTENEMY_07"
+msgid "Preparing"
+msgstr "Preparing"
+
+#. Key:	HAIR_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HAIR_01"
+msgid "Hair"
+msgstr "Hair"
+
+#. Key:	HAND_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HAND_01"
+msgid "右手"
+msgstr "右手"
+
+#. Key:	HAND_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HAND_02"
+msgid "左手"
+msgstr "左手"
+
+#. Key:	HAT_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HAT_01"
+msgid "Hat"
+msgstr "Hat"
+
+#. Key:	HEAD_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HEAD_01"
+msgid "Head"
+msgstr "Head"
+
+#. Key:	HINT_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_01"
+msgid "(Name it at will. Required information)"
+msgstr "(Name it at will. Required information)"
+
+#. Key:	HINT_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_02"
+msgid "World description"
+msgstr "World description"
+
+#. Key:	HINT_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_03"
+msgid "Are you sure you want to abort the existing stage process?"
+msgstr "Are you sure you want to abort the existing stage process?"
+
+#. Key:	HINT_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_04"
+msgid "(Required information)"
+msgstr "(Required information)"
+
+#. Key:	HINT_05
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_05"
+msgid "Are you sure you want to create and enter this room?"
+msgstr "Are you sure you want to create and enter this room?"
+
+#. Key:	HINT_06
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_06"
+msgid "Joining in a random room"
+msgstr "Joining in a random room"
+
+#. Key:	HINT_07
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_07"
+msgid "(Note: System only search for not fully occupied public room to join)"
+msgstr "(Note: System only search for not fully occupied public room to join)"
+
+#. Key:	HINT_08
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_08"
+msgid "No available rooms to join currently!"
+msgstr "No available rooms to join currently!"
+
+#. Key:	HINT_09
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_09"
+msgid "Are you sure you are about to enter this room?"
+msgstr "Are you sure you are about to enter this room?"
+
+#. Key:	HINT_10
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_10"
+msgid "Just a moment"
+msgstr "Just a moment"
+
+#. Key:	HINT_11
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_11"
+msgid "Joining the room"
+msgstr "Joining the room"
+
+#. Key:	HINT_12
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_12"
+msgid "Creating your room"
+msgstr "Creating your room"
+
+#. Key:	HINT_13
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_13"
+msgid "Fail to join this room because it's fully occupied!"
+msgstr "Fail to join this room because it's fully occupied!"
+
+#. Key:	HINT_14
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_14"
+msgid "Fail to join this room because it isn't available anymore!"
+msgstr "Fail to join this room because it isn't available anymore!"
+
+#. Key:	HINT_15
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_15"
+msgid "確定要回復成預設選項嗎？"
+msgstr "確定要回復成預設選項嗎？"
+
+#. Key:	HINT_16
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_16"
+msgid "確定要全部回復到預設嗎？"
+msgstr "確定要全部回復到預設嗎？"
+
+#. Key:	HINT_17
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_17"
+msgid "請按下欲變更按鍵..."
+msgstr "請按下欲變更按鍵..."
+
+#. Key:	HINT_18
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_18"
+msgid "目前設定值 : "
+msgstr "目前設定值 : "
+
+#. Key:	HINT_19
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_19"
+msgid "設定完成後自動返回"
+msgstr "設定完成後自動返回"
+
+#. Key:	HINT_20
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_20"
+msgid "已修改完成！"
+msgstr "已修改完成！"
+
+#. Key:	HINT_21
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_21"
+msgid "變更完成！"
+msgstr "變更完成！"
+
+#. Key:	HINT_22
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HINT_22"
+msgid "即將加入房間"
+msgstr "即將加入房間"
+
+#. Key:	HOST_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,HOST_01"
+msgid "Organizer"
+msgstr "Organizer"
+
+#. Key:	INTERACT_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,INTERACT_01"
+msgid "Interact"
+msgstr "Interact"
+
+#. Key:	INTERACTIVE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,INTERACTIVE_01"
+msgid "Interactive"
+msgstr "Interactive"
+
+#. Key:	INVESTIGATION_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,INVESTIGATION_01"
+msgid "Questionnaire"
+msgstr "Questionnaire"
+
+#. Key:	JOIN_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,JOIN_01"
+msgid "Join"
+msgstr "Join"
+
+#. Key:	LEAVE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,LEAVE_01"
+msgid "Leave"
+msgstr "Leave"
+
+#. Key:	LEAVE_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,LEAVE_02"
+msgid "Are you sure you want to leave the game?"
+msgstr "Are you sure you want to leave the game?"
+
+#. Key:	LEAVE_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,LEAVE_03"
+msgid "Exit"
+msgstr "Exit"
+
+#. Key:	LIGHT_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,LIGHT_01"
+msgid "Light"
+msgstr "Light"
+
+#. Key:	LIST_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,LIST_01"
+msgid "Server List"
+msgstr "Server List"
+
+#. Key:	MACHINE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MACHINE_01"
+msgid "Machine"
+msgstr "Machine"
+
+#. Key:	MATERIAL_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MATERIAL_01"
+msgid "Rug"
+msgstr "Rug"
+
+#. Key:	MATERIAL_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MATERIAL_02"
+msgid "Default texture"
+msgstr "Default texture"
+
+#. Key:	MENU_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MENU_01"
+msgid "Open your menu"
+msgstr "Open your menu"
+
+#. Key:	MINOR_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MINOR_01"
+msgid "Minor scale"
+msgstr "Minor scale"
+
+#. Key:	MODE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MODE_01"
+msgid "Business Mode"
+msgstr "Business Mode"
+
+#. Key:	MODE_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MODE_02"
+msgid "Sandbox Mode"
+msgstr "Sandbox Mode"
+
+#. Key:	MODE_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MODE_03"
+msgid "Select mode"
+msgstr "Select mode"
+
+#. Key:	MODE_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MODE_04"
+msgid "Campaign mode"
+msgstr "Campaign mode"
+
+#. Key:	MODE_05
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MODE_05"
+msgid "Select connection"
+msgstr "Select connection"
+
+#. Key:	MODE_06
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MODE_06"
+msgid "挑戰模式"
+msgstr "挑戰模式"
+
+#. Key:	MODE_07
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MODE_07"
+msgid "關卡模式"
+msgstr "關卡模式"
+
+#. Key:	MONEY_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MONEY_01"
+msgid "Earn your very first money"
+msgstr "Earn your very first money"
+
+#. Key:	MONEY_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MONEY_02"
+msgid "Use your money"
+msgstr "Use your money"
+
+#. Key:	MONEY_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MONEY_03"
+msgid "持有資金"
+msgstr "持有資金"
+
+#. Key:	MOVE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MOVE_01"
+msgid "Move Mode"
+msgstr "Move Mode"
+
+#. Key:	MOVE_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MOVE_02"
+msgid "平滑移動"
+msgstr "平滑移動"
+
+#. Key:	MOVE_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MOVE_03"
+msgid "飛行"
+msgstr "飛行"
+
+#. Key:	MOVE_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MOVE_04"
+msgid "傳送"
+msgstr "傳送"
+
+#. Key:	MUTE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MUTE_01"
+msgid "Mute"
+msgstr "Mute"
+
+#. Key:	MYSTERIO_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,MYSTERIO_01"
+msgid "Interact with the mysterious man"
+msgstr "Interact with the mysterious man"
+
+#. Key:	NAME_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NAME_01"
+msgid "Name"
+msgstr "Name"
+
+#. Key:	NAME_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NAME_02"
+msgid "Enter your name"
+msgstr "Enter your name"
+
+#. Key:	NAME_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NAME_03"
+msgid "Character name"
+msgstr "Character name"
+
+#. Key:	NAME_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NAME_04"
+msgid "Cafe name"
+msgstr "Cafe name"
+
+#. Key:	NAME_05
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NAME_05"
+msgid "Please enter your cafe's name"
+msgstr "Please enter your cafe's name"
+
+#. Key:	NAME_06
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NAME_06"
+msgid "Save file name"
+msgstr "Save file name"
+
+#. Key:	NAME_07
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NAME_07"
+msgid "Room name"
+msgstr "Room name"
+
+#. Key:	NAME_08
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NAME_08"
+msgid "玩家名稱"
+msgstr "玩家名稱"
+
+#. Key:	NAME_09
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NAME_09"
+msgid "商店名稱"
+msgstr "商店名稱"
+
+#. Key:	NAME_10
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NAME_10"
+msgid "請輸入要更改的名稱"
+msgstr "請輸入要更改的名稱"
+
+#. Key:	NO_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NO_01"
+msgid "NO"
+msgstr "NO"
+
+#. Key:	NONE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NONE_01"
+msgid "None"
+msgstr "None"
+
+#. Key:	NULL_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NULL_01"
+msgid "null"
+msgstr "null"
+
+#. Key:	NUMBER_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NUMBER_01"
+msgid "No."
+msgstr "No."
+
+#. Key:	NUMBER_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,NUMBER_02"
+msgid "Attendees"
+msgstr "Attendees"
+
+#. Key:	OUTFIT_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,OUTFIT_01"
+msgid "Chose your outfit"
+msgstr "Chose your outfit"
+
+#. Key:	PASSWORD_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,PASSWORD_01"
+msgid "Password required"
+msgstr "Password required"
+
+#. Key:	PASSWORD_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,PASSWORD_02"
+msgid "Set password"
+msgstr "Set password"
+
+#. Key:	PASSWORD_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,PASSWORD_03"
+msgid "Password"
+msgstr "Password"
+
+#. Key:	PASSWORD_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,PASSWORD_04"
+msgid "Please enter password:"
+msgstr "Please enter password:"
+
+#. Key:	PASSWORD_05
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,PASSWORD_05"
+msgid "Invalid password"
+msgstr "Invalid password"
+
+#. Key:	PLATFORM_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,PLATFORM_01"
+msgid "Platform Object"
+msgstr "Platform Object"
+
+#. Key:	PLAYER_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,PLAYER_01"
+msgid "Single player"
+msgstr "Single player"
+
+#. Key:	PLAYER_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,PLAYER_02"
+msgid "Multiplayer"
+msgstr "Multiplayer"
+
+#. Key:	PLAYER_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,PLAYER_03"
+msgid "自訂角色"
+msgstr "自訂角色"
+
+#. Key:	POPUP_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,POPUP_01"
+msgid "Are you sure you want start the game with these settings?"
+msgstr "Are you sure you want start the game with these settings?"
+
+#. Key:	POPUP_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,POPUP_02"
+msgid "Are you sure you want to load this game?"
+msgstr "Are you sure you want to load this game?"
+
+#. Key:	POPUP_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,POPUP_03"
+msgid "確定要繼續這個關卡嗎?"
+msgstr "確定要繼續這個關卡嗎?"
+
+#. Key:	POPUP_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,POPUP_04"
+msgid "This decision can't be recover"
+msgstr "This decision can't be recover"
+
+#. Key:	PRICE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,PRICE_01"
+msgid "Price"
+msgstr "Price"
+
+#. Key:	PRIZE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,PRIZE_01"
+msgid "Claiming prize"
+msgstr "Claiming prize"
+
+#. Key:	PRODUCTIVITY_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,PRODUCTIVITY_01"
+msgid "Productivity"
+msgstr "Productivity"
+
+#. Key:	PROFILE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,PROFILE_01"
+msgid "Profile"
+msgstr "Profile"
+
+#. Key:	PURCHASE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,PURCHASE_01"
+msgid "Click to Purchase"
+msgstr "Click to Purchase"
+
+#. Key:	RANDOM_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,RANDOM_01"
+msgid "Random"
+msgstr "Random"
+
+#. Key:	RECORD_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,RECORD_01"
+msgid "Record"
+msgstr "Record"
+
+#. Key:	REFRESH_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,REFRESH_01"
+msgid "Refresh"
+msgstr "Refresh"
+
+#. Key:	RENAME_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,RENAME_01"
+msgid "Rename"
+msgstr "Rename"
+
+#. Key:	RESET_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,RESET_01"
+msgid "Reset"
+msgstr "Reset"
+
+#. Key:	RESET_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,RESET_02"
+msgid "回復預設"
+msgstr "回復預設"
+
+#. Key:	RETURN_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,RETURN_01"
+msgid "Return"
+msgstr "Return"
+
+#. Key:	ROOM_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROOM_01"
+msgid "Create Room"
+msgstr "Create Room"
+
+#. Key:	ROOM_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROOM_02"
+msgid "Join Room"
+msgstr "Join Room"
+
+#. Key:	ROOM_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROOM_03"
+msgid "Select room setting"
+msgstr "Select room setting"
+
+#. Key:	ROOM_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROOM_04"
+msgid "Select a room to join in"
+msgstr "Select a room to join in"
+
+#. Key:	ROOM_05
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROOM_05"
+msgid "Connection settings"
+msgstr "Connection settings"
+
+#. Key:	ROOM_06
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROOM_06"
+msgid "Select world"
+msgstr "Select world"
+
+#. Key:	ROOM_07
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROOM_07"
+msgid "Customized world"
+msgstr "Customized world"
+
+#. Key:	ROOM_08
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROOM_08"
+msgid "Default world"
+msgstr "Default world"
+
+#. Key:	ROOM_09
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROOM_09"
+msgid "Quick join"
+msgstr "Quick join"
+
+#. Key:	ROTATE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROTATE_01"
+msgid "Rotate"
+msgstr "Rotate"
+
+#. Key:	ROTATE_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROTATE_02"
+msgid "轉動角度"
+msgstr "轉動角度"
+
+#. Key:	ROTATE_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROTATE_03"
+msgid "平滑轉動"
+msgstr "平滑轉動"
+
+#. Key:	ROTATE_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROTATE_04"
+msgid "Snap 90°"
+msgstr "Snap 90°"
+
+#. Key:	ROTATE_05
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROTATE_05"
+msgid "Snap 60°"
+msgstr "Snap 60°"
+
+#. Key:	ROTATE_06
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,ROTATE_06"
+msgid "Snap 30°"
+msgstr "Snap 30°"
+
+#. Key:	SAVE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SAVE_01"
+msgid "Save once"
+msgstr "Save once"
+
+#. Key:	SCENE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SCENE_01"
+msgid "Scene"
+msgstr "Scene"
+
+#. Key:	SCORE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SCORE_01"
+msgid "Score"
+msgstr "Score"
+
+#. Key:	SELECT_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SELECT_01"
+msgid "Select"
+msgstr "Select"
+
+#. Key:	SET_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SET_01"
+msgid "Set"
+msgstr "Set"
+
+#. Key:	SETTING_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SETTING_01"
+msgid "Game Setting"
+msgstr "Game Setting"
+
+#. Key:	SETTING_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SETTING_02"
+msgid "Key Setting"
+msgstr "Key Setting"
+
+#. Key:	SETTING_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SETTING_03"
+msgid "Volume Setting"
+msgstr "Volume Setting"
+
+#. Key:	SETTING_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SETTING_04"
+msgid "Settings"
+msgstr "Settings"
+
+#. Key:	SETTING_05
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SETTING_05"
+msgid "機台調整"
+msgstr "機台調整"
+
+#. Key:	SETTING_06
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SETTING_06"
+msgid "裝潢主題"
+msgstr "裝潢主題"
+
+#. Key:	SETTING_07
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SETTING_07"
+msgid "重設高度"
+msgstr "重設高度"
+
+#. Key:	SETTING_08
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SETTING_08"
+msgid "刷新出生"
+msgstr "刷新出生"
+
+#. Key:	SETTING_09
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SETTING_09"
+msgid "選單慣用手"
+msgstr "選單慣用手"
+
+#. Key:	SETTING_10
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SETTING_10"
+msgid "指令"
+msgstr "指令"
+
+#. Key:	SETTING_11
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SETTING_11"
+msgid "VR手把"
+msgstr "VR手把"
+
+#. Key:	SETTING_12
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SETTING_12"
+msgid "搖桿按鍵"
+msgstr "搖桿按鍵"
+
+#. Key:	SHELF_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SHELF_01"
+msgid "Shelf"
+msgstr "Shelf"
+
+#. Key:	SKIN_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SKIN_01"
+msgid "Skin"
+msgstr "Skin"
+
+#. Key:	SNAP_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SNAP_01"
+msgid "Snap Degree"
+msgstr "Snap Degree"
+
+#. Key:	SORTOPTION_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SORTOPTION_01"
+msgid "Price High→Low"
+msgstr "Price High→Low"
+
+#. Key:	SORTOPTION_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SORTOPTION_02"
+msgid "Price Low→High"
+msgstr "Price Low→High"
+
+#. Key:	SORTOPTION_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SORTOPTION_03"
+msgid "Productivity High→Low"
+msgstr "Productivity High→Low"
+
+#. Key:	SORTOPTION_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SORTOPTION_04"
+msgid "Productivity Low→High"
+msgstr "Productivity Low→High"
+
+#. Key:	SPECIAL_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SPECIAL_01"
+msgid "Special"
+msgstr "Special"
+
+#. Key:	STAGE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,STAGE_01"
+msgid "Stage"
+msgstr "Stage"
+
+#. Key:	START_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,START_01"
+msgid "Start game"
+msgstr "Start game"
+
+#. Key:	STATE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,STATE_01"
+msgid "Status"
+msgstr "Status"
+
+#. Key:	STATE_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,STATE_02"
+msgid "This is a private room"
+msgstr "This is a private room"
+
+#. Key:	STATE_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,STATE_03"
+msgid "Public"
+msgstr "Public"
+
+#. Key:	STATE_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,STATE_04"
+msgid "Private"
+msgstr "Private"
+
+#. Key:	STORE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,STORE_01"
+msgid "Store"
+msgstr "Store"
+
+#. Key:	STORE_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,STORE_02"
+msgid "Click Store\"\""
+msgstr "Click Store\"\""
+
+#. Key:	SWITCH_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SWITCH_01"
+msgid "Business switch turned on"
+msgstr "Business switch turned on"
+
+#. Key:	SWITCH_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,SWITCH_02"
+msgid "Business switch turned off"
+msgstr "Business switch turned off"
+
+#. Key:	TICKET_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,TICKET_01"
+msgid "持有彩票"
+msgstr "持有彩票"
+
+#. Key:	TIME_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,TIME_01"
+msgid "遊戲時間"
+msgstr "遊戲時間"
+
+#. Key:	UNLOCK_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,UNLOCK_01"
+msgid "Purchase an item at the ticket store"
+msgstr "Purchase an item at the ticket store"
+
+#. Key:	UNLOCK_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,UNLOCK_02"
+msgid "已解鎖物件"
+msgstr "已解鎖物件"
+
+#. Key:	VOLUME_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,VOLUME_01"
+msgid "Main Volume"
+msgstr "Main Volume"
+
+#. Key:	VOLUME_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,VOLUME_02"
+msgid "SFX Volume"
+msgstr "SFX Volume"
+
+#. Key:	VOLUME_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,VOLUME_03"
+msgid "Music Volume"
+msgstr "Music Volume"
+
+#. Key:	VOLUME_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,VOLUME_04"
+msgid "麥克風音量"
+msgstr "麥克風音量"
+
+#. Key:	VOLUME_05
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,VOLUME_05"
+msgid "其他玩家音量"
+msgstr "其他玩家音量"
+
+#. Key:	WALL_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,WALL_01"
+msgid "Wall Object"
+msgstr "Wall Object"
+
+#. Key:	WALL_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,WALL_02"
+msgid "Wall"
+msgstr "Wall"
+
+#. Key:	WAVE_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,WAVE_01"
+msgid "Wave"
+msgstr "Wave"
+
+#. Key:	WORLD_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,WORLD_01"
+msgid "New World"
+msgstr "New World"
+
+#. Key:	WORLD_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,WORLD_02"
+msgid "Choose World"
+msgstr "Choose World"
+
+#. Key:	WORLD_03
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,WORLD_03"
+msgid "Default World"
+msgstr "Default World"
+
+#. Key:	WORLD_04
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,WORLD_04"
+msgid "Default World 1"
+msgstr "Default World 1"
+
+#. Key:	WORLD_05
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,WORLD_05"
+msgid "Default World 2"
+msgstr "Default World 2"
+
+#. Key:	WORLD_06
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,WORLD_06"
+msgid "Default World 3"
+msgstr "Default World 3"
+
+#. Key:	WORLD_07
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,WORLD_07"
+msgid "Empty world"
+msgstr "Empty world"
+
+#. Key:	YES_01
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,YES_01"
+msgid "YES"
+msgstr "YES"
+
+#. Key:	YES_02
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
+#: /Game/Retroverse/StringTable/ST_Text.ST_Text
+msgctxt "ST_Text,YES_02"
+msgid "Confirm"
+msgstr "Confirm"
+
+#. Key:	AllFinished
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,AllFinished"
+msgid "任務完成"
+msgstr "任務完成"
+
+#. Key:	BuildFacility
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,BuildFacility"
+msgid "建造設施"
+msgstr "建造設施"
+
+#. Key:	BuildLotteryShop
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,BuildLotteryShop"
+msgid "建造彩票商店"
+msgstr "建造彩票商店"
+
+#. Key:	BusinessSwitchClose
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,BusinessSwitchClose"
+msgid "營業開關關閉"
+msgstr "營業開關關閉"
+
+#. Key:	BusinessSwitchOpen
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,BusinessSwitchOpen"
+msgid "營業開關開啟"
+msgstr "營業開關開啟"
+
+#. Key:	ClickBuild
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,ClickBuild"
+msgid "點擊建造"
+msgstr "點擊建造"
+
+#. Key:	ClickFacilityOnBuild
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,ClickFacilityOnBuild"
+msgid "點擊建造的設施"
+msgstr "點擊建造的設施"
+
+#. Key:	ClickFacilityOnShop
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,ClickFacilityOnShop"
+msgid "點擊商店的設施"
+msgstr "點擊商店的設施"
+
+#. Key:	ClickShop
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,ClickShop"
+msgid "點擊商店"
+msgstr "點擊商店"
+
+#. Key:	ClickToBuyFacility
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,ClickToBuyFacility"
+msgid "購買設施"
+msgstr "購買設施"
+
+#. Key:	GetFirstMoney
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,GetFirstMoney"
+msgid "賺到第一筆資金"
+msgstr "賺到第一筆資金"
+
+#. Key:	Mysterio
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,Mysterio"
+msgid "神秘客互動"
+msgstr "神秘客互動"
+
+#. Key:	OpenMenu
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,OpenMenu"
+msgid "打開選單"
+msgstr "打開選單"
+
+#. Key:	SaveData
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,SaveData"
+msgid "存檔一次"
+msgstr "存檔一次"
+
+#. Key:	UnlockItemsInLotteryShop
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+#: /Game/Retroverse/StringTable/ST_TutorialName.ST_TutorialName
+msgctxt "ST_TutorialName,UnlockItemsInLotteryShop"
+msgid "彩票商店購買解鎖商品"
+msgstr "彩票商店購買解鎖商品"
+
+#. Key:	00001
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00001"
+msgid "Building"
+msgstr "Building"
+
+#. Key:	00002
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00002"
+msgid "Store"
+msgstr "Store"
+
+#. Key:	00003
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00003"
+msgid "Setting"
+msgstr "Setting"
+
+#. Key:	00004
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00004"
+msgid "Edit Object"
+msgstr "Edit Object"
+
+#. Key:	00005
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00005"
+msgid "Platform Object"
+msgstr "Platform Object"
+
+#. Key:	00006
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00006"
+msgid "Floor Object"
+msgstr "Floor Object"
+
+#. Key:	00007
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00007"
+msgid "Decorative Object"
+msgstr "Decorative Object"
+
+#. Key:	00008
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00008"
+msgid "Wall Object"
+msgstr "Wall Object"
+
+#. Key:	00009
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00009"
+msgid "Ceiling Object"
+msgstr "Ceiling Object"
+
+#. Key:	00010
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00010"
+msgid "Profile"
+msgstr "Profile"
+
+#. Key:	00011
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00011"
+msgid "Game Setting"
+msgstr "Game Setting"
+
+#. Key:	00012
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00012"
+msgid "Key Setting"
+msgstr "Key Setting"
+
+#. Key:	00013
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00013"
+msgid "Rename"
+msgstr "Rename"
+
+#. Key:	00014
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00014"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	00015
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00015"
+msgid "Move Mode"
+msgstr "Move Mode"
+
+#. Key:	00016
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00016"
+msgid "Snap Degree"
+msgstr "Snap Degree"
+
+#. Key:	00017
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00017"
+msgid "Continuous Build"
+msgstr "Continuous Build"
+
+#. Key:	00018
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00018"
+msgid "Mute"
+msgstr "Mute"
+
+#. Key:	00019
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00019"
+msgid "MainVolume"
+msgstr "MainVolume"
+
+#. Key:	00020
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00020"
+msgid "SFXVolume"
+msgstr "SFXVolume"
+
+#. Key:	00021
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00021"
+msgid "MusicVolume"
+msgstr "MusicVolume"
+
+#. Key:	00022
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00022"
+msgid "Name"
+msgstr "Name"
+
+#. Key:	00023
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00023"
+msgid "Productivity"
+msgstr "Productivity"
+
+#. Key:	00024
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00024"
+msgid "Price"
+msgstr "Price"
+
+#. Key:	00025
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00025"
+msgid "Single player"
+msgstr "Single player"
+
+#. Key:	00026
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00026"
+msgid "Multiplayer"
+msgstr "Multiplayer"
+
+#. Key:	00027
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00027"
+msgid "Leave"
+msgstr "Leave"
+
+#. Key:	00028
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00028"
+msgid "Business Mode"
+msgstr "Business Mode"
+
+#. Key:	00029
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00029"
+msgid "Sandbox Mode"
+msgstr "Sandbox Mode"
+
+#. Key:	00030
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00030"
+msgid "New Game"
+msgstr "New Game"
+
+#. Key:	00031
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00031"
+msgid "Load Game"
+msgstr "Load Game"
+
+#. Key:	00032
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00032"
+msgid "New World"
+msgstr "New World"
+
+#. Key:	00033
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00033"
+msgid "Record"
+msgstr "Record"
+
+#. Key:	00034
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00034"
+msgid "Delete"
+msgstr "Delete"
+
+#. Key:	00035
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00035"
+msgid "Create Room"
+msgstr "Create Room"
+
+#. Key:	00036
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00036"
+msgid "Join Room"
+msgstr "Join Room"
+
+#. Key:	00037
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00037"
+msgid "Chose World"
+msgstr "Chose World"
+
+#. Key:	00038
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00038"
+msgid "Server List"
+msgstr "Server List"
+
+#. Key:	00039
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00039"
+msgid "Refresh"
+msgstr "Refresh"
+
+#. Key:	00040
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00040"
+msgid "Join"
+msgstr "Join"
+
+#. Key:	00041
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00041"
+msgid "Enter your name"
+msgstr "Enter your name"
+
+#. Key:	00042
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00042"
+msgid "Confirm"
+msgstr "Confirm"
+
+#. Key:	00043
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00043"
+msgid "Chose your outfit"
+msgstr "Chose your outfit"
+
+#. Key:	00044
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00044"
+msgid "Head"
+msgstr "Head"
+
+#. Key:	00045
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00045"
+msgid "Body"
+msgstr "Body"
+
+#. Key:	00046
+#. SourceLocation:	/Game/Retroverse/StringTable/ST_UIText.ST_UIText
+#: /Game/Retroverse/StringTable/ST_UIText.ST_UIText
+msgctxt "ST_UI,00046"
+msgid "Random"
+msgstr "Random"
+
