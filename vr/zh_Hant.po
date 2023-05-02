@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-04-28 01:21+0000\n"
+"PO-Revision-Date: 2023-05-02 07:38+0000\n"
 "Last-Translator: Weblate Admin <admin@goodhandvr.com>\n"
 "Language-Team: Chinese (Traditional) <http://i18n.office.pumpkinvrar.com/"
 "projects/arcade/vrgame/zh_Hant/>\n"
@@ -1795,7 +1795,7 @@ msgstr ""
 #: /Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
 msgctxt "ST_,0253"
 msgid "Bowling"
-msgstr ""
+msgstr "保齡球"
 
 #. Key:	0254
 #. SourceLocation:	/Game/Retroverse/StringTable/ST_ObjectName.ST_ObjectName
@@ -2383,7 +2383,7 @@ msgstr "返回"
 #: /Game/Retroverse/StringTable/ST_Text.ST_Text
 msgctxt "ST_Text,BODY_01"
 msgid "Body"
-msgstr ""
+msgstr "身體"
 
 #. Key:	BREAKTHROUGH_01
 #. SourceLocation:	/Game/Retroverse/StringTable/ST_Text.ST_Text
